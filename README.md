@@ -1,15 +1,16 @@
- <h1>Hello world! 💫
- I'm Giselle Chaumont Mohr 👋👩‍💻</h1>
+ <h1>Hello world! 💫</h1>
+ <h1>I'm Giselle Chaumont Mohr 👋👩‍💻</h1>
  
+ <h2> I'm a law student and I'm learning to code </h2>
+ 
+<ul>
+<li> 👀 I’m interested in learning new technologies 🤖 </li>
+<li>📚 I’m currently learning REACTjs </li>
+<li>💞️ I’m looking to collaborate on projects that help me improve my skills </li>
+</ul>
 
-
-
-
-
-- 👀 I’m interested in learning new technologies 🤖
-- 🌱 I’m currently learning REACTjs 
-- 💞️ I’m looking to collaborate on projects that help me improve my skills
-
+<h2> 🔧 Technologies and Tools: </h2>
+ 
 
 <!---
 gisellechaumont/gisellechaumont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
