@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @gisellechaumont
+ <h1>Hello world! 💫
+ I'm Giselle Chaumont Mohr 👋👩‍💻</h1>
+ 
+
+
+
+
+
 - 👀 I’m interested in learning new technologies 🤖
 - 🌱 I’m currently learning REACTjs 
 - 💞️ I’m looking to collaborate on projects that help me improve my skills
