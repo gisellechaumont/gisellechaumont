@@ -10,7 +10,7 @@
 </ul>
 
 <h2> 🔧 Technologies and Tools: </h2>
-![descarga](https://user-images.githubusercontent.com/69175205/125544016-900c4bd4-bcb4-405d-a0d6-d27ca5887ba2.png)
+
 
  
 
