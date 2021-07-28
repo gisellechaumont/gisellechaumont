@@ -10,7 +10,18 @@
 </ul>
 
 <h2> 🔧 Technologies and Tools: </h2>
-
+<ul>
+<li> HTML </li>
+<li> CSS </li>
+<li> Bootstrap </li>
+<li> Javascript </li>
+<li> GIT </li>
+<li> Github </li>
+<li> React </li>
+<li> Nodejs </li>
+<li> Expressjs </li>
+<li> MySQL </li>
+</ul>
 
  
 
