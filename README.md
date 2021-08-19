@@ -14,6 +14,7 @@
 <ul>
 <li> 👀 I’m interested in learning new technologies 🤖 </li>
 <li>📚 I’m currently learning REACTjs </li>
+ <li> 👩‍💻 I'm studying to be a web developer </li>
 <li>💞️ I’m looking to collaborate on projects that help me improve my skills </li>
 </ul>
 
