@@ -1,7 +1,6 @@
  <h1>Hello world! 💫</h1>
  <h1>I'm Giselle Chaumont Mohr 👋👩‍💻</h1>
  
- <h2> I'm learning to code </h2>
  
 <ul>
 <li> 👀 I’m interested in learning new technologies 🤖 </li>
