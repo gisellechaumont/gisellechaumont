@@ -2,7 +2,7 @@
  <h2>I'm Giselle Chaumont Mohr 👋👩‍💻</h2>
  
 <p align="center">
-  
+  ![Rosa Morado Profesional Banner LinkedIn](https://user-images.githubusercontent.com/69175205/130131483-c40d6cbe-6b11-40dc-b008-0f036a299af6.png)
 </p>
 
  
