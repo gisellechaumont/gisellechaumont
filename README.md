@@ -1,9 +1,13 @@
  <h1>Hello world! 💫</h1>
- <h2>I'm Giselle Chaumont Mohr 👋👩‍💻</h2>
+ <h2>I'm Giselle 👋👩‍💻</h2>
  
-<p align="center">
+
   ![Rosa Morado Profesional Banner LinkedIn](https://user-images.githubusercontent.com/69175205/130131483-c40d6cbe-6b11-40dc-b008-0f036a299af6.png)
-</p>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gisellechaumont)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellechaumontmohr/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gisellechaumont)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/gisellech)
 
  
  
