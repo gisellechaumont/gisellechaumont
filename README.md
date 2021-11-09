@@ -1,8 +1,8 @@
  <h1>Hello world! 💫</h1>
  <h2>I'm Giselle 👋👩‍💻</h2>
  
+![Rosa Morado Profesional Banner LinkedIn](https://user-images.githubusercontent.com/69175205/140843036-6c27aad3-2dba-4937-b87d-2990ec1f7b73.png)
 
-  ![Rosa Morado Profesional Banner LinkedIn](https://user-images.githubusercontent.com/69175205/130131483-c40d6cbe-6b11-40dc-b008-0f036a299af6.png)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gisellechaumont)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellechaumontmohr/)
