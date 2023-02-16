@@ -1,10 +1,6 @@
  <h1>Hello world! 💫</h1>
  <h2>I'm Giselle 👋👩‍💻</h2>
  <h3>I'm a frontend developer💻</h3>
- 
-![Rosa Morado Profesional Banner LinkedIn](https://user-images.githubusercontent.com/69175205/140843036-6c27aad3-2dba-4937-b87d-2990ec1f7b73.png)
-
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gisellechaumont)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellechaumontmohr/)
 
@@ -24,11 +20,6 @@
 <img src="https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor">
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=30&color=currentColor">
 <img src="https://icongr.am/devicon/angularjs-original.svg?size=30&color=currentColor">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
 
