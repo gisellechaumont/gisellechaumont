@@ -1,6 +1,10 @@
  <h1>Hello world! 💫</h1>
  <h2>I'm Giselle 👋👩‍💻</h2>
+ 
+ 
  <h3>I'm a frontend developer💻</h3>
+ 
+ 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gisellechaumont)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellechaumontmohr/)
 
