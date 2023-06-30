@@ -12,7 +12,7 @@
  
 <ul>
 <li>👀I’m interested in learning new technologies 🤖 </li>
-<li>📚 I’m currently working with React and Angular </li>
+<li>📚 I’m currently working with React, Netxjs and Angular </li>
 <li>💞️ I’m working to improve my skills </li>
 </ul>
 
