@@ -2,7 +2,7 @@
  <h2>I'm Giselle 👋👩‍💻</h2>
  
  
- <h3>I'm a frontend developer💻</h3>
+<!--- <h3>I'm a frontend developer💻</h3>
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gisellechaumont)
